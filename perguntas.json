@@ -236,7 +236,7 @@
     },
     {
         "question": "Quem foi o autor de 'O Primo Basílio'?",
-        "options": ["Machado de Assis", "José de Alencar", "Joaquim Maria Machado de Assis", "José de Alencar"],
+        "options": ["Machado de Assis", "José de Alencar", "Joaquim Maria Machado de Assis", "Fernando Pessoa"],
         "answer": 1
     },
     {
@@ -585,7 +585,7 @@
         "answer": 2
     },
     {
-        "question": "Qual seleção brasileira de futebol venceu a Copa do Mundo de 1994?",
+        "question": "Qual seleção de futebol venceu a Copa do Mundo de 1994?",
         "options": ["Brasil", "Alemanha", "Argentina", "Itália"],
         "answer": 0
     },
