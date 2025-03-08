@@ -768,5 +768,400 @@
         "question": "Em 'Harry Potter', qual é o nome do famoso jogo jogado em vassouras?",
         "options": ["Quidditch", "Futebol", "Baseball", "Polo"],
         "answer": 0
+    },
+    {
+        "question": "Qual é o principal ingrediente do guacamole?",
+        "options": ["Abacate", "Tomate", "Cebola", "Limão"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o nome do prato tradicional italiano feito com massas e molho de tomate?",
+        "options": ["Pizza", "Lasanha", "Macarrão", "Espaguete"],
+        "answer": 2
+    },
+    {
+        "question": "O que é 'sashimi' na culinária japonesa?",
+        "options": ["Peixe cru", "Arroz de peixe", "Sopa de peixe", "Bebida fermentada"],
+        "answer": 0
+    },
+    {
+        "question": "Qual desses é um tipo de queijo italiano?",
+        "options": ["Cheddar", "Mozzarella", "Brie", "Gorgonzola"],
+        "answer": 1
+    },
+    {
+        "question": "O que é o 'risoto'?",
+        "options": ["Um tipo de sopa", "Um prato de arroz cremoso", "Um prato de massas", "Uma sobremesa"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o nome do prato tradicional mexicano feito com tortillas e recheios variados?",
+        "options": ["Burrito", "Taco", "Chili", "Quesadilla"],
+        "answer": 1
+    },
+    {
+        "question": "O que é 'ceviche' na culinária peruana?",
+        "options": ["Arroz de peixe", "Peixe cru marinado", "Sopa de peixe", "Frango grelhado"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é a principal diferença entre a culinária francesa e a italiana?",
+        "options": ["O uso de peixe", "A combinação de massas e molho", "O tipo de queijo", "O uso de molho francês e técnicas de cozinha"],
+        "answer": 3
+    },
+    {
+        "question": "Qual é o nome da sobremesa italiana feita com café e creme de leite?",
+        "options": ["Tiramisu", "Cannoli", "Gelato", "Panna cotta"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o nome do prato espanhol feito com arroz, frutos do mar e açafrão?",
+        "options": ["Paella", "Gazpacho", "Tortilla", "Empanada"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é a principal carne utilizada no prato 'feijoada'?",
+        "options": ["Carne de porco", "Carne de boi", "Frango", "Peixe"],
+        "answer": 0
+    },
+    {
+        "question": "O que é 'tempura' na culinária japonesa?",
+        "options": ["Prato de peixe cru", "Arroz cozido", "Legumes e frutos do mar empanados e fritos", "Sopa de miso"],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o nome da bebida alcoólica tradicionalmente feita de agave?",
+        "options": ["Tequila", "Rum", "Vodka", "Cerveja"],
+        "answer": 0
+    },
+    {
+        "question": "Qual prato é composto por arroz, feijão e carne moída?",
+        "options": ["Arroz com carne", "Feijão tropeiro", "Arroz de carreteiro", "Frango com arroz"],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o nome do prato típico brasileiro feito com arroz, feijão e carne de sol?",
+        "options": ["Feijão tropeiro", "Baião de dois", "Acarajé", "Moqueca"],
+        "answer": 1
+    },
+    {
+        "question": "O que é 'cuscuz' na culinária nordestina?",
+        "options": ["Bolo de arroz", "Massa de farinha de milho", "Prato de arroz com feijão", "Carne de sol com arroz"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é a principal base do molho 'bechamel'?",
+        "options": ["Creme de leite", "Queijo", "Farinha de trigo e leite", "Manteiga e óleo"],
+        "answer": 2
+    },
+    {
+        "question": "O que é 'pão de queijo'?",
+        "options": ["Pão de trigo com queijo", "Pão de milho", "Biscoito de queijo", "Bolo de queijo"],
+        "answer": 0
+    },
+    {
+        "question": "O que é 'galette' na culinária francesa?",
+        "options": ["Crepe doce", "Pizza", "Torta salgada", "Bolo de arroz"],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o nome da carne típica da culinária argentina, especialmente conhecida na parrilla?",
+        "options": ["Carne de boi", "Cordeiro", "Frango", "Porco"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o nome do prato italiano feito com fatias finas de carne, queijo e molho?",
+        "options": ["Lasanha", "Carpaccio", "Risoto", "Frittata"],
+        "answer": 1
+    },
+    {
+        "question": "Quem é conhecido como o 'Rei do Baião'?",
+        "options": ["Chico Buarque", "Luiz Gonzaga", "Caetano Veloso", "Gilberto Gil"],
+        "answer": 1
+    },
+    {
+        "question": "Qual cantor é famoso pelo hit 'Mas, Que Nada'?",
+        "options": ["Jorge Ben Jor", "Gilberto Gil", "Caetano Veloso", "Zeca Pagodinho"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o nome do cantor de 'Ai, Se Eu Te Pego'?",
+        "options": ["Michel Teló", "Luan Santana", "Wesley Safadão", "Chitãozinho & Xororó"],
+        "answer": 0
+    },
+    {
+        "question": "Quem compôs a música 'Garota de Ipanema'?",
+        "options": ["Tom Jobim e Vinícius de Moraes", "Caetano Veloso e Gilberto Gil", "Chico Buarque e Nara Leão", "Elis Regina e Milton Nascimento"],
+        "answer": 0
+    },
+    {
+        "question": "Qual banda brasileira é famosa pela música 'Faroeste Caboclo'?",
+        "options": ["Legião Urbana", "Os Mutantes", "Titãs", "Paralamas do Sucesso"],
+        "answer": 0
+    },
+    {
+        "question": "Quem é o autor da canção 'Aquarela do Brasil'?",
+        "options": ["Chico Buarque", "Ary Barroso", "Tom Jobim", "Caetano Veloso"],
+        "answer": 1
+    },
+    {
+        "question": "Qual cantora é conhecida pelo hit 'Pagu'?",
+        "options": ["Elis Regina", "Cássia Eller", "Nara Leão", "Rita Lee"],
+        "answer": 3
+    },
+    {
+        "question": "Quem cantou 'O Leãozinho'?",
+        "options": ["Caetano Veloso", "Gilberto Gil", "Ney Matogrosso", "Chico Buarque"],
+        "answer": 0
+    },
+    {
+        "question": "Quem é o cantor de 'Tempo Perdido'?",
+        "options": ["Engenheiros do Hawaii", "Legião Urbana", "Titãs", "Paralamas do Sucesso"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o nome da música que popularizou Elis Regina na década de 1970?",
+        "options": ["Águas de Março", "O Mundo é um Moinho", "Como Nossos Pais", "Arrastão"],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o nome da cantora de 'Dona Cila'?",
+        "options": ["Maria Bethânia", "Gal Costa", "Elis Regina", "Nara Leão"],
+        "answer": 3
+    },
+    {
+        "question": "Quem é o cantor que fez sucesso com 'Quase Sem Querer'?",
+        "options": ["Cazuza", "Raul Seixas", "Legião Urbana", "Renato Russo"],
+        "answer": 2
+    },
+    {
+        "question": "Qual música de Roberto Carlos ficou famosa como hino de amor?",
+        "options": ["Detalhes", "Cavalgada", "Amigo", "O Portão"],
+        "answer": 0
+    },
+    {
+        "question": "Quem cantou 'Brasil' (1972)?",
+        "options": ["Caetano Veloso", "Gilberto Gil", "Elis Regina", "Chico Buarque"],
+        "answer": 0
+    },
+    {
+        "question": "Qual foi a primeira música de Cássia Eller a fazer grande sucesso?",
+        "options": ["Malandragem", "Eres Tú", "Mundo da Lua", "Por Enquanto"],
+        "answer": 0
+    },
+    {
+        "question": "Qual cantor é conhecido como o 'Rei da Música Sertaneja'?",
+        "options": ["Zezé Di Camargo", "Chitãozinho & Xororó", "Leandro & Leonardo", "Jorge & Mateus"],
+        "answer": 1
+    },
+    {
+        "question": "Quem canta 'Anunciação'?",
+        "options": ["Caetano Veloso", "Gilberto Gil", "Chico Buarque", "Zeca Baleiro"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o nome da música que eternizou a banda Legião Urbana?",
+        "options": ["Pais e Filhos", "Tempo Perdido", "Faroeste Caboclo", "Índios"],
+        "answer": 1
+    },
+    {
+        "question": "Quem é a cantora de 'Águas de Março'?",
+        "options": ["Gal Costa", "Elis Regina", "Nara Leão", "Maria Bethânia"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o nome do cantor conhecido por 'Sampa'?",
+        "options": ["Chico Buarque", "Caetano Veloso", "Ney Matogrosso", "Belchior"],
+        "answer": 1
+    },
+    {
+        "question": "Quem é o cantor de 'Lanterna dos Afogados'?",
+        "options": ["Os Paralamas do Sucesso", "Legião Urbana", "Titãs", "Os Mutantes"],
+        "answer": 0
+    },
+    {
+        "question": "Quem é o autor da música 'Construção'?",
+        "options": ["Chico Buarque", "Gilberto Gil", "Caetano Veloso", "Ney Matogrosso"],
+        "answer": 0
+    },
+    {
+        "question": "Qual cantor é conhecido pela música 'O Que É, O Que É?'?",
+        "options": ["Zeca Baleiro", "Chico César", "Caetano Veloso", "Djavan"],
+        "answer": 1
+    },
+    {
+        "question": "Qual cantora é famosa por interpretar a música 'O Mundo é um Moinho'?",
+        "options": ["Elis Regina", "Cássia Eller", "Nara Leão", "Maria Bethânia"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o nome do cantor de 'Olha'?",
+        "options": ["Roberto Carlos", "Erasmo Carlos", "Beto Guedes", "Milton Nascimento"],
+        "answer": 1
+    },
+    {
+        "question": "Quem cantou 'Eu Só Quero Um Xodó'?",
+        "options": ["Dominguinhos", "Gilberto Gil", "Caetano Veloso", "Zeca Baleiro"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o nome da cantora que ficou famosa com 'Trem das Onze'?",
+        "options": ["Elis Regina", "Adoniran Barbosa", "Cássia Eller", "Nara Leão"],
+        "answer": 1
+    },
+    {
+        "question": "Quem cantou 'Chega de Saudade'?",
+        "options": ["Tom Jobim", "João Gilberto", "Chico Buarque", "Elis Regina"],
+        "answer": 1
+    },
+    {
+        "question": "Qual música foi um grande sucesso de Caetano Veloso nos anos 70?",
+        "options": ["O Leãozinho", "Sozinho", "Anunciação", "Cavalgada"],
+        "answer": 0
+    },
+    {
+        "question": "Quem compôs a música 'Cais'?",
+        "options": ["Milton Nascimento", "Chico Buarque", "Caetano Veloso", "Gilberto Gil"],
+        "answer": 0
+    },
+    {
+        "question": "Quem é o cantor da música 'Ela é Carioca'?",
+        "options": ["Tom Jobim", "Vinícius de Moraes", "Chico Buarque", "Caetano Veloso"],
+        "answer": 0
+    },
+    {
+        "question": "Qual cantora foi uma das grandes musas da Tropicália?",
+        "options": ["Gal Costa", "Elis Regina", "Maria Bethânia", "Nara Leão"],
+        "answer": 0
+    },
+    {
+        "question": "Quem cantou 'O Canto de Dona Sinhá'?",
+        "options": ["Gilberto Gil", "Caetano Veloso", "Chico Buarque", "Milton Nascimento"],
+        "answer": 3
+    },
+    {
+        "question": "Qual é o nome da música de Chico Buarque que critica a ditadura militar?",
+        "options": ["Apesar de Você", "O Que Será", "A Banda", "O Mundo é um Moinho"],
+        "answer": 0
+    },
+    {
+        "question": "Quem é o cantor de 'Sei Lá, Mangueira'?",
+        "options": ["Beth Carvalho", "Elis Regina", "Nara Leão", "Maria Bethânia"],
+        "answer": 0
+    },
+    {
+        "question": "Quem cantou 'Não Deixe o Samba Morrer'?",
+        "options": ["Alcione", "Beth Carvalho", "Zeca Pagodinho", "Leci Brandão"],
+        "answer": 0
+    },
+    {
+        "question": "Qual cantor tem a música 'Coração de Estudante' como um de seus maiores sucessos?",
+        "options": ["Milton Nascimento", "Chico Buarque", "Caetano Veloso", "Gilberto Gil"],
+        "answer": 0
+    },
+    {
+        "question": "Qual banda lançou a música 'Ainda é Cedo'?",
+        "options": ["Legião Urbana", "Paralamas do Sucesso", "Titãs", "Engenheiros do Hawaii"],
+        "answer": 0
+    },
+   {
+        "question": "Quem é a personagem do folclore brasileiro conhecida por ser uma mulher com cabeça de fogo?",
+        "options": ["Iara", "Cuca", "Mãe-do-Ouro", "Saci"],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o nome do folclorista que ajudou a divulgar as lendas do folclore brasileiro?",
+        "options": ["Mário de Andrade", "Lima Barreto", "Carlos Drummond de Andrade", "Monteiro Lobato"],
+        "answer": 0
+    },
+    {
+        "question": "Qual criatura do folclore brasileiro é conhecida por ter uma perna só e andar saltando?",
+        "options": ["Saci", "Curupira", "Iara", "Mula-sem-cabeça"],
+        "answer": 0
+    },
+    {
+        "question": "A Mula-sem-cabeça, personagem do folclore brasileiro, tem a aparência de:",
+        "options": ["Uma mulher com cabeça de vaca", "Uma mulher com cabeça de burro", "Uma mulher com cabeça de fogo", "Uma mulher com cabeça de cavalo"],
+        "answer": 1
+    },
+    {
+        "question": "Quem é a criatura mitológica do folclore brasileiro que protege as florestas?",
+        "options": ["Saci", "Curupira", "Iara", "Boto"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o nome da sereia do folclore brasileiro que atrai os pescadores?",
+        "options": ["Iara", "Mãe-d'Água", "Cuca", "Iemanjá"],
+        "answer": 0
+    },
+    {
+        "question": "O que caracteriza o Saci Pererê no folclore brasileiro?",
+        "options": ["Uma pessoa com o corpo inteiro coberto por penas", "Um ser com uma perna só e um cachimbo", "Uma mulher com cabelo encaracolado", "Um homem com o corpo todo coberto de verde"],
+        "answer": 1
+    },
+    {
+        "question": "Qual personagem do folclore brasileiro é descrito como um homem com cabeça de cavalo e corpo de mulher?",
+        "options": ["Mula-sem-cabeça", "Curupira", "Saci", "Cuca"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é a origem da história do Curupira no folclore brasileiro?",
+        "options": ["Amazônia", "Pantanal", "Mata Atlântica", "Cerrado"],
+        "answer": 2
+    },
+    {
+        "question": "Quem é o responsável por prender a alma das pessoas, segundo o folclore brasileiro?",
+        "options": ["O Lobisomem", "O Bicho-Papão", "O Cuca", "A Mula-sem-cabeça"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o nome da criatura que se transforma em um homem e seduz mulheres, segundo o folclore brasileiro?",
+        "options": ["Boto", "Iara", "Saci", "Lobisomem"],
+        "answer": 0
+    },
+    {
+        "question": "O que acontece quando alguém encontra o Cuca no folclore brasileiro?",
+        "options": ["É enfeitiçado e vira um animal", "É levado para um lugar desconhecido", "É colocado em uma cesta e levado embora", "É adormecido e vira uma planta"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o personagem do folclore brasileiro conhecido por pegar as crianças desobedientes?",
+        "options": ["Cuca", "Bicho-Papão", "Saci", "Curupira"],
+        "answer": 1
+    },
+    {
+        "question": "De acordo com o folclore, quem é o responsável por transformar uma pessoa em lobisomem?",
+        "options": ["Uma maldição", "Uma poção mágica", "Uma mordida", "Uma benção"],
+        "answer": 0
+    },
+    {
+        "question": "Em qual período do ano o folclore brasileiro conta que a Mula-sem-cabeça aparece?",
+        "options": ["Durante a noite", "Durante o dia", "Em noites de lua cheia", "Durante o carnaval"],
+        "answer": 2
+    },
+    {
+        "question": "Qual personagem do folclore brasileiro tem como característica o fato de ser invisível e assustar as pessoas?",
+        "options": ["Saci", "Bicho-Papão", "Mula-sem-cabeça", "Curupira"],
+        "answer": 1
+    },
+    {
+        "question": "O que o Curupira faz para proteger a floresta?",
+        "options": ["Destrói as árvores", "Engana os caçadores", "Queima as plantações", "Destrói as casas"],
+        "answer": 1
+    },
+    {
+        "question": "Qual personagem do folclore brasileiro é uma mulher que se transforma em uma figura monstruosa e voa por cima das casas?",
+        "options": ["Iara", "Mãe-do-Ouro", "Cuca", "Mula-sem-cabeça"],
+        "answer": 2
+    },
+    {
+        "question": "Qual é a lenda que envolve o Boto no folclore brasileiro?",
+        "options": ["Ele se transforma em um homem e seduz mulheres", "Ele é um monstro que come crianças", "Ele cria tempestades no mar", "Ele protege as florestas"],
+        "answer": 0
+    },
+    {
+        "question": "No folclore brasileiro, o Saci costuma carregar um:",
+        "options": ["Chapéu de palha", "Cachimbo", "Machado", "Bastão"],
+        "answer": 1
     }	
 ]
