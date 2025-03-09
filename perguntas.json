@@ -6,7 +6,7 @@
     },
     {
         "question": "Quem pintou a Mona Lisa?",
-        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Ciro Picasso"],
         "answer": 2
     },
     {
@@ -16,12 +16,12 @@
     },
     {
         "question": "Qual é o maior planeta do sistema solar?",
-        "options": ["Terra", "Júpiter", "Saturno", "Marte"],
+        "options": ["Terra", "Júpiter", "Saturno", "Uranio"],
         "answer": 1
     },
     {
         "question": "Quem escreveu 'Dom Casmurro'?",
-        "options": ["Machado de Assis", "José de Alencar", "Clarice Lispector", "Érico Veríssimo"],
+        "options": ["Machado de Assis", "José de Alencar", "Clemilda", "Érico Veríssimo"],
         "answer": 0
     },
     {
@@ -46,7 +46,7 @@
     },
     {
         "question": "Quem descobriu o Brasil?",
-        "options": ["Pedro Álvares Cabral", "Cristóvão Colombo", "Vasco da Gama", "Fernão de Magalhães"],
+        "options": ["Pedro Álvares Cabral", "Cristóvão Colombo", "Vasco da Gama", "Flamengo"],
         "answer": 0
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "question": "Quem foi o primeiro presidente dos Estados Unidos?",
-        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "Will Smith"],
         "answer": 1
     },
     {
@@ -76,12 +76,12 @@
     },
     {
         "question": "Quem escreveu 'Romeu e Julieta'?",
-        "options": ["Shakespeare", "Molière", "Goethe", "Dante Alighieri"],
+        "options": ["Shakespeare", "Molière", "Ariano Suassuna", "Dante Alighieri"],
         "answer": 0
     },
     {
         "question": "Qual é o menor país do mundo?",
-        "options": ["Vaticano", "Mônaco", "Nauru", "San Marino"],
+        "options": ["Vaticano", "Mônaco", "Sergipe", "San Marino"],
         "answer": 0
     },
     {
@@ -96,18 +96,20 @@
     },
     {
         "question": "Qual é a fórmula da água?",
-        "options": ["CO2", "H2O", "O2", "CH4"],
+        "options": ["CO2", "H2O", "O2", "H3O"],
         "answer": 1
     },
     {
         "question": "Qual é o nome do maior deserto do mundo?",
-        "options": ["Sahara", "Gobi", "Antártico", "Kalahari"],
+        "options": ["Sahara", "Gobi", "Antártico", "Deserto de Canindé"],
         "answer": 2
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Quem pintou 'A Última Ceia'?",
-        "options": ["Michelangelo", "Caravaggio", "Leonardo da Vinci", "Rembrandt"],
+        "options": ["Michelangelo", "Frei Damião", "Leonardo da Vinci", "Rembrandt"],
         "answer": 2
+	"theme": "Artes"
     },
     {
         "question": "Em que país fica a Grande Muralha?",
