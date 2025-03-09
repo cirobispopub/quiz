@@ -1521,5 +1521,125 @@
         "options": ["O Paizão", "Click", "As Branquelas", "Gente Grande"],
         "answer": 1,
         "theme": "Comédia"
+    },
+    {
+        "question": "Quem é o personagem principal da série 'Mr. Bean'?",
+        "options": ["Rowan Atkinson", "Johnny Depp", "Jim Carrey", "Chris Farley"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual é o nome do personagem interpretado por Will Smith na série 'Um Maluco no Pedaço'?",
+        "options": ["Carlton Banks", "Phil Banks", "Will Smith", "Jeffrey"],
+        "answer": 2,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em qual filme de comédia a personagem 'Elle Woods' se torna advogada?",
+        "options": ["As Branquelas", "Legalmente Loira", "A Proposta", "O Diário da Princesa"],
+        "answer": 1,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual série de comédia é ambientada em uma agência de publicidade chamada Dunder Mifflin?",
+        "options": ["The Office", "Parks and Recreation", "How I Met Your Mother", "Brooklyn Nine-Nine"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em qual filme Jim Carrey interpreta o personagem 'Ace Ventura'?",
+        "options": ["O Máskara", "Ace Ventura: Um Detetive Diferente", "O Todo Poderoso", "Debi & Lóide"],
+        "answer": 1,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual é o nome do ator que interpreta 'Ron Swanson' em 'Parks and Recreation'?",
+        "options": ["Steve Carell", "Nick Offerman", "Will Ferrell", "Chris Pratt"],
+        "answer": 1,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em qual filme de comédia os irmãos 'Farrelly' criam uma história sobre dois homens que viajam juntos?",
+        "options": ["Debi & Lóide", "Gente Grande", "Os Estagiários", "Zoolander"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Quem interpreta o personagem 'Jack Black' em filmes de comédia?",
+        "options": ["Ben Stiller", "Jim Carrey", "Adam Sandler", "Jack Black"],
+        "answer": 3,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em qual série de comédia o personagem 'Michael Scott' é chefe de uma filial?",
+        "options": ["The Office", "How I Met Your Mother", "Two and a Half Men", "Brooklyn Nine-Nine"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual é o nome do filme em que um homem tem o poder de conceder desejos ao usar um anel mágico?",
+        "options": ["O Máskara", "Click", "A Lenda do Anel", "Bruce, O Todo Poderoso"],
+        "answer": 3,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em qual filme de comédia o personagem 'Billy Madison' tem que concluir sua educação para herdar a fortuna do pai?",
+        "options": ["Billy Madison", "Os Estagiários", "O Mentiroso", "O Paizão"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual comediante é famoso por seu papel em 'O Âncora: A Lenda de Ron Burgundy'?",
+        "options": ["Steve Carell", "Will Ferrell", "Jim Carrey", "Ben Stiller"],
+        "answer": 1,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Quem foi o criador da série 'Friends'?",
+        "options": ["David Crane", "Chuck Lorre", "Matt Groening", "Dan Harmon"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em qual filme de comédia o personagem 'Ace Ventura' trabalha como detetive de animais?",
+        "options": ["Ace Ventura", "O Máskara", "Debi & Lóide", "Os Pinguins de Madagascar"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em qual comédia Will Ferrell e Mark Wahlberg atuam como policiais?",
+        "options": ["Os Outros Caras", "Os Estagiários", "Uma Mãe Para o Meu Bebê", "O Âncora"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual série de comédia apresenta um grupo de amigos com nomes como 'Monica', 'Chandler' e 'Ross'?",
+        "options": ["The Office", "Friends", "Parks and Recreation", "Two and a Half Men"],
+        "answer": 1,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual é o nome do filme em que o ator Robin Williams interpreta um personagem que vira uma babá?",
+        "options": ["O Paizão", "A Sociedade dos Poetas Mortos", "Jumanji", "O Dia da Marmota"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual é o nome do programa de comédia que apresenta o apresentador Jimmy Fallon?",
+        "options": ["The Tonight Show", "The Late Show", "Comedy Central Presents", "Saturday Night Live"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual série de comédia apresenta o personagem 'Sheldon Cooper', um físico teórico?",
+        "options": ["The Big Bang Theory", "The Office", "Parks and Recreation", "Brooklyn Nine-Nine"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual filme de comédia tem Adam Sandler como o personagem principal, que retorna à sua escola para concluir seus estudos?",
+        "options": ["Billy Madison", "O Paizão", "Click", "A Proposta"],
+        "answer": 0,
+        "theme": "Comédia"
     }	
 ]
