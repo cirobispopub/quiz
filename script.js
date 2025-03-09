@@ -106,3 +106,6 @@ function restartQuiz() {
     document.getElementById('question-container').classList.remove('hidden');
     displayQuestion();
 }
+function getQuestionsByTheme(theme) {
+    return questions.filter(question => question.theme === theme);
+}
