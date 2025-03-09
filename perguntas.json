@@ -138,23 +138,27 @@
     },
     {
         "question": "Quem inventou o telefone?",
-        "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Samuel Morse"],
+        "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Telegipe"],
         "answer": 2
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Em que ano a Primeira Guerra Mundial começou?",
         "options": ["1900", "1910", "1914", "1920"],
         "answer": 2
+	"theme": "História"    
     },
     {
         "question": "Qual é a maior cidade do mundo em população?",
-        "options": ["Tóquio", "Nova Iorque", "Seul", "Mumbai"],
+        "options": ["Tóquio", "Nova Iorque", "Seul", "São Paulo"],
         "answer": 0
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é a capital da Itália?",
         "options": ["Roma", "Milão", "Veneza", "Florença"],
         "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "Qual é a cor do sangue de um caranguejo?",
@@ -178,18 +182,21 @@
     },
     {
         "question": "Qual é o maior estado dos Estados Unidos?",
-        "options": ["Califórnia", "Texas", "Alasca", "Flórida"],
+        "options": ["Califórnia", "Texas", "Alasca", "Telasca"],
         "answer": 2
+	"theme": "Geografia"
     },
     {
         "question": "Quem é conhecido como o 'Rei do Pop'?",
-        "options": ["Elvis Presley", "Michael Jackson", "Prince", "James Brown"],
+        "options": ["Elvis Presley", "Michael Jackson", "Luiz Gonzaga", "James Brown"],
         "answer": 1
+	"theme": "Musica"
     },
     {
         "question": "Qual é a principal fonte de energia do sol?",
         "options": ["Fusão nuclear", "Fissão nuclear", "Radiação", "Gravidade"],
         "answer": 0
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é a maior floresta tropical do mundo?",
@@ -205,21 +212,25 @@
         "question": "Quem foi o último czar da Rússia?",
         "options": ["Nicolau II", "Ivan IV", "Pedro I", "Alexandre II"],
         "answer": 0
+	"theme": "História"
     },
     {
         "question": "Qual é a capital de Portugal?",
-        "options": ["Porto", "Lisboa", "Coimbra", "Funchal"],
+        "options": ["Porto", "Lisboa", "Madrid", "Funchal"],
         "answer": 1
+	"theme": "Geografia"
     },
     {
         "question": "Em que país está localizado o Machu Picchu?",
         "options": ["Peru", "Bolívia", "Chile", "Equador"],
         "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "Quem inventou a lâmpada elétrica?",
-        "options": ["Nikola Tesla", "Thomas Edison", "Galileu Galilei", "Albert Einstein"],
+        "options": ["Nikola Tesla", "Thomas Edison", "Energisa", "Albert Einstein"],
         "answer": 1
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Em que continente fica o deserto do Saara?",
@@ -300,21 +311,25 @@
         "question": "Qual é o estado mais ao norte do Brasil?",
         "options": ["Amapá", "Amazonas", "Roraima", "Pará"],
         "answer": 2
+	"theme": "Geografia"
     },
     {
         "question": "Onde está localizada a cidade de Foz do Iguaçu?",
-        "options": ["Paraná", "Santa Catarina", "São Paulo", "Rio Grande do Sul"],
+        "options": ["Paraná", "Santa Catarina", "Sergipe", "Rio Grande do Sul"],
         "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "Qual é o menor estado brasileiro em termos de área?",
         "options": ["Sergipe", "Alagoas", "Espírito Santo", "Rio de Janeiro"],
         "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "Qual é a capital do estado de Goiás?",
         "options": ["Campo Grande", "Brasília", "Goiânia", "Cuiabá"],
         "answer": 2
+	"theme": "Geografia"
     },
     {
         "question": "O Brasil possui quantos estados?",
@@ -323,23 +338,27 @@
     },
     {
         "question": "Qual é o ponto mais alto do Brasil?",
-        "options": ["Pico da Neblina", "Pico das Agulhas Negras", "Pico do Bandeira", "Serra do Caparaó"],
+        "options": ["Pico da Neblina", "Pico das Agulhas Negras", "Serra de Itabaiana", "Serra do Caparaó"],
         "answer": 0
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Em que região do Brasil fica o Pantanal?",
         "options": ["Centro-Oeste", "Norte", "Nordeste", "Sul"],
         "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "Qual é o maior arquipélago do Brasil?",
         "options": ["Arquipélago de São Pedro e São Paulo", "Arquipélago de Fernando de Noronha", "Arquipélago de Abrolhos", "Arquipélago de Trindade e Martim Vaz"],
         "answer": 1
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é o maior estado da região Nordeste?",
-        "options": ["Bahia", "Pernambuco", "Ceará", "Maranhão"],
+        "options": ["Bahia", "Pernambuco", "Sergipe", "Maranhão"],
         "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "Qual é o nome da maior floresta tropical do mundo, localizada no Brasil?",
@@ -350,36 +369,43 @@
         "question": "Qual é o maior litoral do Brasil?",
         "options": ["São Paulo", "Santa Catarina", "Rio de Janeiro", "Bahia"],
         "answer": 3
+	 "theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é o nome do maior estado do Brasil em população?",
         "options": ["São Paulo", "Minas Gerais", "Rio de Janeiro", "Bahia"],
         "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "O que é o Rio São Francisco?",
         "options": ["O maior rio do Brasil", "Um dos maiores rios do mundo", "Um rio da região Norte", "Um rio da região Nordeste"],
         "answer": 3
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é a capital do estado do Amazonas?",
         "options": ["Rio Branco", "Manaus", "Boa Vista", "Porto Velho"],
         "answer": 1
+	"theme": "Geografia"
     },
     {
         "question": "Onde está localizado o Parque Nacional de Jericoacoara?",
         "options": ["Ceará", "Pernambuco", "Rio Grande do Norte", "Bahia"],
         "answer": 0
+	 "theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é o nome da maior cidade do Brasil em população?",
         "options": ["São Paulo", "Rio de Janeiro", "Salvador", "Belo Horizonte"],
         "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "Qual estado brasileiro é conhecido como 'Terra de ninguém' devido à disputa territorial?",
         "options": ["Acre", "Rondônia", "Roraima", "Maranhão"],
         "answer": 2
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é o nome do maior rio que passa pelo estado de Mato Grosso?",
@@ -388,83 +414,93 @@
     },
     {
         "question": "Qual é o nome do ponto mais ao sul do Brasil?",
-        "options": ["Foz do Iguaçu", "Chuí", "Porto Alegre", "Pelotas"],
+        "options": ["Foz do Iguaçu", "Chuí", "Chaí", "Pelotas"],
         "answer": 1
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é o maior estado da região Sul?",
-        "options": ["Paraná", "Santa Catarina", "Rio Grande do Sul", "São Paulo"],
+        "options": ["Paraná", "Bahia", "Rio Grande do Sul", "São Paulo"],
         "answer": 2
+	"theme": "Geografia"
     },
     {
         "question": "Qual é a principal atividade econômica do estado de Minas Gerais?",
-        "options": ["Mineração", "Turismo", "Agronegócio", "Indústria Automobilística"],
+        "options": ["Mineração", "Turismo", "Fazer Pão de Queijo", "Indústria Automobilística"],
         "answer": 0
+	"theme": "Economia"
     },
     {
         "question": "Em qual estado brasileiro está localizada a Ilha de Marajó?",
         "options": ["Pará", "Amapá", "Maranhão", "Piauí"],
         "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "Qual é o nome da cadeia montanhosa que atravessa o estado do Rio de Janeiro?",
         "options": ["Serra do Caparaó", "Serra do Mar", "Serra dos Órgãos", "Serra da Mantiqueira"],
         "answer": 2
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é a maior cidade da região Norte do Brasil?",
         "options": ["Manaus", "Porto Velho", "Belém", "Rio Branco"],
         "answer": 0
-    },
-    {
-        "question": "Qual é o maior estado do Brasil em termos de população?",
-        "options": ["São Paulo", "Minas Gerais", "Rio de Janeiro", "Bahia"],
-        "answer": 0
+	"theme": "Geografia"
     },
     {
         "question": "Onde está localizada a famosa praia de Copacabana?",
         "options": ["Rio de Janeiro", "Salvador", "Recife", "Fortaleza"],
         "answer": 0
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é o nome do rio que forma a fronteira entre Brasil e Argentina?",
         "options": ["Rio Amazonas", "Rio Paraná", "Rio São Francisco", "Rio Uruguai"],
         "answer": 1
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é a maior cidade do estado de Pernambuco?",
         "options": ["Recife", "Olinda", "Caruaru", "Petrolina"],
         "answer": 0
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é o nome do maior arquipélago do estado do Maranhão?",
         "options": ["Ilha de São Luís", "Ilhas de Fernando de Noronha", "Ilhas do Cardoso", "Ilhas de Marajó"],
         "answer": 0
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual estado brasileiro é conhecido pela produção de milho e soja?",
         "options": ["Mato Grosso", "Goiás", "Paraná", "São Paulo"],
         "answer": 1
+	"theme": "Agro"
     },
     {
         "question": "Qual é o nome do famoso ponto turístico no Rio de Janeiro, conhecido pela estátua de Cristo Redentor?",
         "options": ["Pão de Açúcar", "Corcovado", "Lapa", "Copacabana"],
         "answer": 1
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é o nome do parque natural que fica em Goiás e é um importante destino de ecoturismo?",
         "options": ["Parque Nacional da Serra da Canastra", "Parque Nacional da Chapada dos Veadeiros", "Parque Nacional de Jericoacoara", "Parque Nacional de Iguaçu"],
         "answer": 1
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Em que região do Brasil fica o estado de São Paulo?",
         "options": ["Norte", "Nordeste", "Centro-Oeste", "Sudeste"],
         "answer": 3
+	"theme": "Geografia"
     },
     {
         "question": "Qual estado brasileiro é conhecido como a 'terra das cataratas'?",
         "options": ["Paraná", "Santa Catarina", "Bahia", "Rio Grande do Sul"],
         "answer": 0
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Qual é o nome da região do Brasil que tem o clima tropical de altitude?",
@@ -475,547 +511,626 @@
         "question": "Qual é o nome da maior cidade do estado de Minas Gerais?",
         "options": ["Belo Horizonte", "Uberlândia", "Juiz de Fora", "Montes Claros"],
         "answer": 0
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Em qual estado brasileiro fica a famosa Ilha de Florianópolis?",
         "options": ["São Paulo", "Paraná", "Santa Catarina", "Rio de Janeiro"],
         "answer": 2
+	"theme": "Conhecimento Gerais"
     },
     {
         "question": "Quem é o maior jogador da história do futebol brasileiro?",
         "options": ["Romário", "Pelé", "Zico", "Ronaldo Fenômeno"],
         "answer": 1
+	"theme": "Futebol"
     },
     {
         "question": "Em que ano o Brasil conquistou seu primeiro título da Copa do Mundo de Futebol?",
         "options": ["1948", "1950", "1958", "1962"],
         "answer": 2
+	"theme": "Futebol"
     },
     {
         "question": "Qual time brasileiro foi campeão da Copa Libertadores da América em 2019?",
         "options": ["São Paulo", "Flamengo", "Palmeiras", "Grêmio"],
         "answer": 1
+	"theme": "Futebol"
     },
     {
         "question": "Quem foi o artilheiro da seleção brasileira na Copa do Mundo de 2002?",
-        "options": ["Ronaldo", "Kaká", "Rivaldo", "Ronaldinho Gaúcho"],
+        "options": ["Ronaldo", "Neymar", "Rivaldo", "Ronaldinho Gaúcho"],
         "answer": 0
+	"theme": "Futebol"
     },
     {
         "question": "Qual é o time de futebol que mais venceu o Campeonato Brasileiro?",
-        "options": ["Flamengo", "Palmeiras", "São Paulo", "Santos"],
+        "options": ["Flamengo", "Palmeiras", "Confiança", "Santos"],
         "answer": 1
+	"theme": "Futebol"
     },
     {
         "question": "Em que ano o Brasil sediou os Jogos Olímpicos?",
         "options": ["2008", "2012", "2016", "2020"],
         "answer": 2
+	"theme": "Esportes"
     },
     {
         "question": "Quem é o jogador brasileiro com mais gols marcados na história da Copa do Mundo?",
         "options": ["Neymar", "Ronaldo Fenômeno", "Pelé", "Romário"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
         "question": "Qual é a modalidade esportiva que o Brasil domina nas Olimpíadas, com várias medalhas de ouro?",
         "options": ["Vôlei", "Futebol", "Basquete", "Handebol"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Em qual cidade brasileira foi disputada a final da Copa do Mundo de 2014?",
         "options": ["São Paulo", "Rio de Janeiro", "Belo Horizonte", "Brasília"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
         "question": "Quem venceu a Copa América de Futebol de 2019?",
         "options": ["Brasil", "Argentina", "Chile", "Colômbia"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Qual time é conhecido como 'o clube mais vitorioso' do futebol brasileiro?",
         "options": ["Palmeiras", "Flamengo", "São Paulo", "Grêmio"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Qual é o nome da seleção brasileira de vôlei feminino que conquistou medalha de ouro nos Jogos Olímpicos de 2008 e 2012?",
         "options": ["Seleção Canarinho", "Seleção Brasileira de Vôlei", "Seleção Superpoderosa", "Seleção Feminina"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
         "question": "Qual jogador brasileiro venceu o prêmio de Melhor Jogador do Mundo da FIFA em 1999?",
         "options": ["Ronaldinho Gaúcho", "Ronaldo Fenômeno", "Kaká", "Rivaldo"],
         "answer": 3
+	"theme": "Esportes"
     },
     {
         "question": "Qual time brasileiro conquistou o título da Copa do Brasil em 2020?",
         "options": ["Atlético Mineiro", "Palmeiras", "Fluminense", "Grêmio"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
         "question": "Em 2016, qual cidade brasileira sediou os Jogos Olímpicos de Verão?",
-        "options": ["São Paulo", "Brasília", "Rio de Janeiro", "Salvador"],
+        "options": ["São Paulo", "Pacatuba", "Rio de Janeiro", "Salvador"],
         "answer": 2
+	"theme": "Esportes"
     },
     {
         "question": "Qual time brasileiro tem a maior torcida do Brasil?",
-        "options": ["São Paulo", "Fluminense", "Flamengo", "Corinthians"],
+        "options": ["São Paulo", "Ibis", "Flamengo", "Corinthians"],
         "answer": 2
+	"theme": "Esportes"
     },
     {
         "question": "Qual atleta brasileiro é considerado um dos maiores tenistas da história do Brasil?",
-        "options": ["Gustavo Kuerten", "Maria Esther Bueno", "Thomaz Bellucci", "Luiza Stefani"],
+        "options": ["Gustavo Kuerten", "Maria Esther Bueno", "Oscar Schimidt", "Luiza Stefani"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Quem é o jogador de futebol brasileiro conhecido como 'O Fenômeno'?",
-        "options": ["Ronaldinho Gaúcho", "Neymar", "Pelé", "Ronaldo Fenômeno"],
+        "options": ["Ronaldinho Gaúcho", "Neymar", "Gabigol", "Ronaldo"],
         "answer": 3
+	"theme": "Esportes"
     },
     {
         "question": "Qual time brasileiro ganhou a Copa do Mundo de Clubes da FIFA em 2012?",
         "options": ["Flamengo", "Corinthians", "São Paulo", "Internacional"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
         "question": "Quem é o maior goleiro da história do futebol brasileiro?",
         "options": ["Dida", "Félix", "Taffarel", "Cássio"],
         "answer": 2
+	"theme": "Esportes"
     },
     {
         "question": "Qual é a modalidade de esportes que o Brasil conquistou 6 medalhas de ouro nos Jogos Olímpicos de 2016?",
         "options": ["Atletismo", "Vôlei", "Judô", "Futebol"],
         "answer": 2
+	"theme": "Esportes"
     },
     {
         "question": "Qual seleção de futebol venceu a Copa do Mundo de 1994?",
         "options": ["Brasil", "Alemanha", "Argentina", "Itália"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Quem é o maior nadador brasileiro da história, com várias medalhas em mundiais e Jogos Olímpicos?",
-        "options": ["Thiago Pereira", "César Cielo", "Felipe Lima", "Gustavo Borges"],
+        "options": ["Thiago Pereira", "César Cielo", "Rodrigo Tavares", "Gustavo Borges"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
         "question": "Qual time brasileiro conquistou a Copa Libertadores da América em 2012?",
         "options": ["São Paulo", "Corinthians", "Flamengo", "Grêmio"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
-        "question": "Qual time brasileiro foi campeão da Copa do Mundo de Futebol em 2002?",
+        "question": "Qual seleção foi campeã da Copa do Mundo de Futebol em 2002?",
         "options": ["Brasil", "França", "Argentina", "Alemanha"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Quem foi o campeão da Copa do Brasil em 2018?",
         "options": ["Grêmio", "Cruzeiro", "Corinthians", "Palmeiras"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
         "question": "Quem foi o maior jogador de basquete brasileiro de todos os tempos?",
         "options": ["Oscar Schmidt", "Anderson Varejão", "Marcelinho Huertas", "Leandro Barbosa"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
-        "question": "Quem é o maior jogador de futebol feminino do Brasil?",
-        "options": ["Marta", "Formiga", "Cristiane", "Rosana"],
+        "question": "Quem é a maior jogadora de futebol feminino do Brasil?",
+        "options": ["Marta", "Formiga", "Cristiane", "Belle"],
         "answer": 0
-    },
-    {
-        "question": "Em qual cidade brasileira foi realizada a Copa do Mundo de Futebol em 1950?",
-        "options": ["São Paulo", "Belo Horizonte", "Rio de Janeiro", "Porto Alegre"],
-        "answer": 2
+	"theme": "Esportes"
     },
     {
         "question": "Quem é o maior nadador de águas abertas do Brasil?",
         "options": ["Marcos Paulo", "César Cielo", "Neymar", "Arthur Zanetti"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Em que ano o Brasil conquistou sua primeira medalha de ouro nas Olimpíadas?",
-        "options": ["1960", "1980", "1992", "2008"],
+        "options": ["1960", "1980", "1992", "2000 antes Cristo"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Qual é o nome do estádio que sedia o clássico paulista entre Palmeiras e Corinthians?",
         "options": ["Maracanã", "Mineirão", "Arena Corinthians", "Allianz Parque"],
         "answer": 3
+	"theme": "Esportes"
     },
     {
         "question": "Qual é a principal competição de futebol do Brasil?",
         "options": ["Copa do Brasil", "Campeonato Brasileiro", "Copa Libertadores", "Copa América"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
         "question": "Em 2021, qual brasileiro conquistou a medalha de ouro nas Olimpíadas em Tóquio no skate?",
         "options": ["Pedro Barros", "Kelvin Hoefler", "Rebeca Andrade", "Priscilla Ribas"],
         "answer": 1
+	"theme": "Esportes"
     },
     {
         "question": "Qual é o nome do time de futebol brasileiro que tem como mascote o coelho?",
         "options": ["Atlético Mineiro", "Figueirense", "América Mineiro", "Bahia"],
         "answer": 2
+	"theme": "Esportes"
     },
     {
         "question": "Quem foi o principal jogador do time de futebol brasileiro na Copa do Mundo de 1998?",
         "options": ["Ronaldo Fenômeno", "Pelé", "Zico", "Romário"],
         "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Quem venceu o Campeonato Brasileiro de Futebol de 2020?",
         "options": ["Flamengo", "São Paulo", "Palmeiras", "Internacional"],
         "answer": 0
-    },
-    {
-        "question": "Quem é o maior jogador de tênis brasileiro da história?",
-        "options": ["Gustavo Kuerten", "Thomaz Bellucci", "Luiza Stefani", "Ricardo Mello"],
-        "answer": 0
+	"theme": "Esportes"
     },
     {
         "question": "Quem dirigiu o filme 'Titanic'?",
-        "options": ["James Cameron", "Steven Spielberg", "Martin Scorsese", "Christopher Nolan"],
+        "options": ["James Cameron", "Steven Spielberg", "Ramon Coxin", "Christopher Nolan"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Em que ano foi lançado o primeiro filme da série 'Harry Potter'?",
         "options": ["2001", "2002", "2003", "2004"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Qual ator interpretou o personagem 'Jack Sparrow' na série de filmes 'Piratas do Caribe'?",
         "options": ["Johnny Depp", "Brad Pitt", "Tom Cruise", "Leonardo DiCaprio"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Qual é o nome do personagem principal de 'O Rei Leão'?",
         "options": ["Simba", "Mufasa", "Scar", "Pumba"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Quem foi o diretor de 'Jurassic Park'?",
-        "options": ["Steven Spielberg", "George Lucas", "Tim Burton", "James Cameron"],
+        "options": ["Steven Spielberg", "Ciro Bispo", "Tim Burton", "James Cameron"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Qual é o nome da famosa franquia de filmes com o personagem 'Darth Vader'?",
-        "options": ["Star Wars", "Star Trek", "Matrix", "Jurassic Park"],
+        "options": ["Star Wars", "Star Trek", "Matrix", "Starlink"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Em 'O Senhor dos Anéis', quem é o responsável por destruir o Um Anel?",
         "options": ["Frodo Baggins", "Gandalf", "Aragorn", "Legolas"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Quem ganhou o Oscar de Melhor Ator em 2020 por seu papel em 'Coringa'?",
         "options": ["Joaquin Phoenix", "Leonardo DiCaprio", "Brad Pitt", "Tom Hanks"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Em qual filme de animação da Pixar um robô é o personagem principal?",
-        "options": ["Wall-E", "Toy Story", "Up", "Monstros S.A."],
+        "options": ["Wall-E", "Toy Story", "Tropa de Elite", "Monstros S.A."],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Quem é o diretor de 'Inception' (A Origem)?",
         "options": ["Christopher Nolan", "Steven Spielberg", "Martin Scorsese", "James Cameron"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Em 'Vingadores: Ultimato', quem faz o papel de Thor?",
         "options": ["Chris Hemsworth", "Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Qual é o nome do filme que conta a história do famoso hacker 'Neo'?",
         "options": ["Matrix", "Inception", "O Exterminador do Futuro", "Star Wars"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Em 'Forrest Gump', quem interpretou o personagem principal?",
         "options": ["Tom Hanks", "Leonardo DiCaprio", "Matt Damon", "Johnny Depp"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Qual foi o primeiro filme da Marvel a ultrapassar US$ 1 bilhão de bilheteiras?",
         "options": ["Os Vingadores", "Vingadores: Guerra Infinita", "Vingadores: Ultimato", "Pantera Negra"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Quem foi a protagonista do filme 'Menina de Ouro', que venceu o Oscar de Melhor Atriz em 2005?",
-        "options": ["Hilary Swank", "Meryl Streep", "Julia Roberts", "Kate Winslet"],
+        "options": ["Hilary Swank", "Meryl Streep", "Julia Roberts", "Juliete"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Qual é o nome do filme de animação que traz os personagens 'Mike' e 'Sulley'?",
         "options": ["Monstros S.A.", "Os Incríveis", "Procurando Nemo", "Shrek"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Em qual cidade se passa a história de 'O Lado Bom da Vida'?",
         "options": ["Filadélfia", "Los Angeles", "Chicago", "Nova York"],
         "answer": 3
+	"theme": "Cinema"
     },
     {
         "question": "Qual é o nome do filme que conta a história de um homem que tenta salvar sua esposa após um acidente de carro?",
         "options": ["O Vingador do Futuro", "Ensaio Sobre a Cegueira", "O Corpo", "A Origem"],
         "answer": 2
+	"theme": "Cinema"
     },
     {
         "question": "Quem ganhou o Oscar de Melhor Diretor por 'A Forma da Água'?",
         "options": ["Guillermo del Toro", "Christopher Nolan", "Steven Spielberg", "Martin Scorsese"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Em 'Harry Potter', qual é o nome do famoso jogo jogado em vassouras?",
         "options": ["Quidditch", "Futebol", "Baseball", "Polo"],
         "answer": 0
+	"theme": "Cinema"
     },
     {
         "question": "Qual é o principal ingrediente do guacamole?",
         "options": ["Abacate", "Tomate", "Cebola", "Limão"],
         "answer": 0
+	"theme": "Culinária"
     },
     {
         "question": "Qual é o nome do prato tradicional italiano feito com massas e molho de tomate?",
         "options": ["Pizza", "Lasanha", "Macarrão", "Espaguete"],
         "answer": 2
+	"theme": "Culinária"
     },
     {
         "question": "O que é 'sashimi' na culinária japonesa?",
-        "options": ["Peixe cru", "Arroz de peixe", "Sopa de peixe", "Bebida fermentada"],
+        "options": ["Peixe cru", "Tomar no Kru", "Sopa de peixe", "Arroz de peixe"],
         "answer": 0
+	"theme": "Culinária"
     },
     {
         "question": "Qual desses é um tipo de queijo italiano?",
-        "options": ["Cheddar", "Mozzarella", "Brie", "Gorgonzola"],
+        "options": ["Cheddar", "Mozzarella", "Queijo Defuntado", "Gorgonzola"],
         "answer": 1
+	"theme": "Culinária"
     },
     {
         "question": "O que é o 'risoto'?",
         "options": ["Um tipo de sopa", "Um prato de arroz cremoso", "Um prato de massas", "Uma sobremesa"],
         "answer": 1
+	"theme": "Culinária"
     },
     {
         "question": "Qual é o nome do prato tradicional mexicano feito com tortillas e recheios variados?",
         "options": ["Burrito", "Taco", "Chili", "Quesadilla"],
         "answer": 1
+	"theme": "Culinária"
     },
     {
         "question": "O que é 'ceviche' na culinária peruana?",
         "options": ["Arroz de peixe", "Peixe cru marinado", "Sopa de peixe", "Frango grelhado"],
         "answer": 1
+	"theme": "Culinária"
     },
     {
         "question": "Qual é a principal diferença entre a culinária francesa e a italiana?",
         "options": ["O uso de peixe", "A combinação de massas e molho", "O tipo de queijo", "O uso de molho francês e técnicas de cozinha"],
         "answer": 3
+	"theme": "Culinária"
     },
     {
         "question": "Qual é o nome da sobremesa italiana feita com café e creme de leite?",
         "options": ["Tiramisu", "Cannoli", "Gelato", "Panna cotta"],
         "answer": 0
+	"theme": "Culinária"
     },
     {
         "question": "Qual é o nome do prato espanhol feito com arroz, frutos do mar e açafrão?",
-        "options": ["Paella", "Gazpacho", "Tortilla", "Empanada"],
+        "options": ["Paella", "Gazpacho", "Sarapatel", "Empanada"],
         "answer": 0
+	"theme": "Culinária"
     },
     {
         "question": "Qual é a principal carne utilizada no prato 'feijoada'?",
         "options": ["Carne de porco", "Carne de boi", "Frango", "Peixe"],
         "answer": 0
+	"theme": "Culinária"
     },
     {
         "question": "O que é 'tempura' na culinária japonesa?",
         "options": ["Prato de peixe cru", "Arroz cozido", "Legumes e frutos do mar empanados e fritos", "Sopa de miso"],
         "answer": 2
+	"theme": "Culinária"
     },
     {
         "question": "Qual é o nome da bebida alcoólica tradicionalmente feita de agave?",
         "options": ["Tequila", "Rum", "Vodka", "Cerveja"],
         "answer": 0
+	"theme": "Bebida"
     },
     {
         "question": "Qual prato é composto por arroz, feijão e carne moída?",
         "options": ["Arroz com carne", "Feijão tropeiro", "Arroz de carreteiro", "Frango com arroz"],
         "answer": 2
+	"theme": "Culinária"
     },
     {
         "question": "Qual é o nome do prato típico brasileiro feito com arroz, feijão e carne de sol?",
         "options": ["Feijão tropeiro", "Baião de dois", "Acarajé", "Moqueca"],
         "answer": 1
+	"theme": "Culinária"
     },
     {
         "question": "O que é 'cuscuz' na culinária nordestina?",
         "options": ["Bolo de arroz", "Massa de farinha de milho", "Prato de arroz com feijão", "Carne de sol com arroz"],
         "answer": 1
+	"theme": "Culinária"
     },
     {
         "question": "Qual é a principal base do molho 'bechamel'?",
         "options": ["Creme de leite", "Queijo", "Farinha de trigo e leite", "Manteiga e óleo"],
         "answer": 2
+	"theme": "Culinária"
     },
     {
         "question": "O que é 'pão de queijo'?",
         "options": ["Pão de trigo com queijo", "Pão de milho", "Biscoito de queijo", "Bolo de queijo"],
         "answer": 0
+	"theme": "Culinária"
     },
     {
         "question": "O que é 'galette' na culinária francesa?",
         "options": ["Crepe doce", "Pizza", "Torta salgada", "Bolo de arroz"],
         "answer": 2
+	"theme": "Culinária"
     },
     {
         "question": "Qual é o nome da carne típica da culinária argentina, especialmente conhecida na parrilla?",
         "options": ["Carne de boi", "Cordeiro", "Frango", "Porco"],
         "answer": 0
+	"theme": "Culinária"
     },
     {
         "question": "Qual é o nome do prato italiano feito com fatias finas de carne, queijo e molho?",
         "options": ["Lasanha", "Carpaccio", "Risoto", "Frittata"],
         "answer": 1
+	"theme": "Culinária"
     },
     {
         "question": "Quem é conhecido como o 'Rei do Baião'?",
         "options": ["Chico Buarque", "Luiz Gonzaga", "Caetano Veloso", "Gilberto Gil"],
         "answer": 1
+	"theme": "Musica"
     },
     {
         "question": "Qual cantor é famoso pelo hit 'Mas, Que Nada'?",
-        "options": ["Jorge Ben Jor", "Gilberto Gil", "Caetano Veloso", "Zeca Pagodinho"],
+        "options": ["Jorge Ben Jor", "Zezo", "Caetano Veloso", "Zeca Pagodinho"],
         "answer": 0
+	"theme": "Musica"
     },
     {
         "question": "Qual é o nome do cantor de 'Ai, Se Eu Te Pego'?",
         "options": ["Michel Teló", "Luan Santana", "Wesley Safadão", "Chitãozinho & Xororó"],
         "answer": 0
+	"theme": "Musica"
     },
     {
         "question": "Quem compôs a música 'Garota de Ipanema'?",
         "options": ["Tom Jobim e Vinícius de Moraes", "Caetano Veloso e Gilberto Gil", "Chico Buarque e Nara Leão", "Elis Regina e Milton Nascimento"],
         "answer": 0
+	"theme": "Musica"
     },
     {
         "question": "Qual banda brasileira é famosa pela música 'Faroeste Caboclo'?",
-        "options": ["Legião Urbana", "Os Mutantes", "Titãs", "Paralamas do Sucesso"],
+        "options": ["Legião Urbana", "Os Mutantes", "Titãs", "Raio da Silibrina"],
         "answer": 0
+	"theme": "Musica"
     },
     {
         "question": "Quem é o autor da canção 'Aquarela do Brasil'?",
         "options": ["Chico Buarque", "Ary Barroso", "Tom Jobim", "Caetano Veloso"],
         "answer": 1
+	"theme": "Musica"
     },
     {
         "question": "Qual cantora é conhecida pelo hit 'Pagu'?",
-        "options": ["Elis Regina", "Cássia Eller", "Nara Leão", "Rita Lee"],
+        "options": ["Tati Quebra Barraco", "Cássia Eller", "Joelma", "Rita Lee"],
         "answer": 3
+	"theme": "Musica"
     },
     {
         "question": "Quem cantou 'O Leãozinho'?",
-        "options": ["Caetano Veloso", "Gilberto Gil", "Ney Matogrosso", "Chico Buarque"],
+        "options": ["Caetano Veloso", "Pablo Vittar", "Ney Matogrosso", "Leo Santana"],
         "answer": 0
+	"theme": "Músicas"
     },
     {
         "question": "Quem é o cantor de 'Tempo Perdido'?",
         "options": ["Engenheiros do Hawaii", "Legião Urbana", "Titãs", "Paralamas do Sucesso"],
         "answer": 1
+	"theme": "Músicas"
     },
     {
         "question": "Qual é o nome da música que popularizou Elis Regina na década de 1970?",
         "options": ["Águas de Março", "O Mundo é um Moinho", "Como Nossos Pais", "Arrastão"],
         "answer": 2
+	"theme": "Músicas"
     },
     {
-        "question": "Qual é o nome da cantora de 'Dona Cila'?",
-        "options": ["Maria Bethânia", "Gal Costa", "Elis Regina", "Nara Leão"],
-        "answer": 3
+        "question": "O que é o 'Axé' no contexto do Carnaval Baiano?",
+        "options": ["Um estilo de samba", "Uma bebida típica", "Um gênero musical", "Um tipo de dança"],
+        "answer": 2,
+        "theme": "Conheicmento geral"
     },
     {
-        "question": "Quem é o cantor que fez sucesso com 'Quase Sem Querer'?",
-        "options": ["Cazuza", "Raul Seixas", "Legião Urbana", "Renato Russo"],
-        "answer": 2
+        "question": "Quem foi o idealizador do primeiro trio elétrico no Carnaval da Bahia?",
+        "options": ["Carlinhos Brown", "Chico Science", "Dodô e Osmar", "Ivete Sangalo"],
+        "answer": 2,
+        "theme": "Músicas"
     },
     {
         "question": "Qual música de Roberto Carlos ficou famosa como hino de amor?",
         "options": ["Detalhes", "Cavalgada", "Amigo", "O Portão"],
         "answer": 0
+	 "theme": "Músicas"
     },
     {
-        "question": "Quem cantou 'Brasil' (1972)?",
-        "options": ["Caetano Veloso", "Gilberto Gil", "Elis Regina", "Chico Buarque"],
-        "answer": 0
+        "question": "Quem é o cantor baiano conhecido por sua música 'Berimbau'?",
+        "options": ["Caetano Veloso", "Gilberto Gil", "Chico Science", "Jorge Ben Jor"],
+        "answer": 1,
+        "theme": "Músicas"
     },
     {
-        "question": "Qual foi a primeira música de Cássia Eller a fazer grande sucesso?",
-        "options": ["Malandragem", "Eres Tú", "Mundo da Lua", "Por Enquanto"],
-        "answer": 0
-    },
+        "question": "Qual banda baiana é famosa pela canção 'Chorando Se Foi', que é um dos maiores sucessos da música pop brasileira?",
+        "options": ["Pablo", "Novos Baianos", "Banda Eva", "Os Tribalistas"],
+        "answer": 1,
+        "theme": "Músicas"
+    }
     {
         "question": "Qual cantor é conhecido como o 'Rei da Música Sertaneja'?",
         "options": ["Zezé Di Camargo", "Chitãozinho & Xororó", "Leandro & Leonardo", "Jorge & Mateus"],
         "answer": 1
+	"theme": "Músicas"
     },
     {
-        "question": "Quem canta 'Anunciação'?",
-        "options": ["Caetano Veloso", "Gilberto Gil", "Chico Buarque", "Zeca Baleiro"],
-        "answer": 0
+        "question": "Quem é o cantor baiano conhecido por seu sucesso, com músicas como 'Diga que Valeu'?",
+        "options": ["Netinho", "Léo Santana", "Luan Santana", "Bell Marques"],
+        "answer": 3,
+        "theme": "Músicas"
     },
     {
         "question": "Qual é o nome da música que eternizou a banda Legião Urbana?",
         "options": ["Pais e Filhos", "Tempo Perdido", "Faroeste Caboclo", "Índios"],
         "answer": 1
+	"theme": "Músicas"
     },
     {
-        "question": "Quem é a cantora de 'Águas de Março'?",
-        "options": ["Gal Costa", "Elis Regina", "Nara Leão", "Maria Bethânia"],
-        "answer": 1
+        "question": "Qual cantor baiano é conhecido por sua carreira solo e também por fazer parte do grupo de pagode 'É o Tchan'?",
+        "options": ["Xanddy", "Tony Sales", "Carlinhos Brown", "Leo Santana"],
+        "answer": 0,
+        "theme": "Músicas"
     },
     {
         "question": "Qual é o nome do cantor conhecido por 'Sampa'?",
         "options": ["Chico Buarque", "Caetano Veloso", "Ney Matogrosso", "Belchior"],
         "answer": 1
+	"theme": "Músicas"
     },
     {
-        "question": "Quem é o cantor de 'Lanterna dos Afogados'?",
-        "options": ["Os Paralamas do Sucesso", "Legião Urbana", "Titãs", "Os Mutantes"],
-        "answer": 0
-    },
+        "question": "Qual artista brasileiro é conhecido pelo sucesso 'Vai Malandra', lançado em 2017?",
+        "options": ["Anitta", "Ludmilla", "Ivete Sangalo", "Marília Mendonça"],
+        "answer": 0,
+        "theme": "Músicas"
+    }
     {
-        "question": "Quem é o autor da música 'Construção'?",
-        "options": ["Chico Buarque", "Gilberto Gil", "Caetano Veloso", "Ney Matogrosso"],
-        "answer": 0
-    },
-    {
-        "question": "Qual cantor é conhecido pela música 'O Que É, O Que É?'?",
-        "options": ["Zeca Baleiro", "Chico César", "Caetano Veloso", "Djavan"],
-        "answer": 1
-    },
-    {
-        "question": "Qual cantora é famosa por interpretar a música 'O Mundo é um Moinho'?",
-        "options": ["Elis Regina", "Cássia Eller", "Nara Leão", "Maria Bethânia"],
-        "answer": 0
-    },
-    {
-        "question": "Qual é o nome do cantor de 'Olha'?",
-        "options": ["Roberto Carlos", "Erasmo Carlos", "Beto Guedes", "Milton Nascimento"],
-        "answer": 1
+        "question": "Quem popularizou a música 'Trem das Onze', um clássico da música paulista?",
+        "options": ["Elis Regina", "Adoniran Barbosa", "Demônios da Garoa", "Cássia Eller"],
+        "answer": 1,
+        "theme": "Músicas"
     },
     {
         "question": "Quem cantou 'Eu Só Quero Um Xodó'?",
         "options": ["Dominguinhos", "Gilberto Gil", "Caetano Veloso", "Zeca Baleiro"],
         "answer": 0
+	"theme": "Músicas"
     },
     {
-        "question": "Qual é o nome da cantora que ficou famosa com 'Trem das Onze'?",
+        "question": "Qual é o nome da cantor que ficou famosa com 'Trem das Onze'?",
         "options": ["Elis Regina", "Adoniran Barbosa", "Cássia Eller", "Nara Leão"],
         "answer": 1
+	"theme": "Músicas"
     },
     {
-        "question": "Quem cantou 'Chega de Saudade'?",
-        "options": ["Tom Jobim", "João Gilberto", "Chico Buarque", "Elis Regina"],
-        "answer": 1
-    },
+        "question": "Qual música de Zeca Pagodinho fala sobre as dificuldades do dia a dia e o valor do samba?",
+        "options": ["Deixa a Vida Me Levar", "Judia de Mim", "Vem Sambar", "Vai Vadiar"],
+        "answer": 0,
+        "theme": "Músicas"
+    }
     {
         "question": "Qual música foi um grande sucesso de Caetano Veloso nos anos 70?",
         "options": ["O Leãozinho", "Sozinho", "Anunciação", "Cavalgada"],
