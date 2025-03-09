@@ -1057,7 +1057,7 @@
         "question": "Qual música de Roberto Carlos ficou famosa como hino de amor?",
         "options": ["Detalhes", "Cavalgada", "Amigo", "O Portão"],
         "answer": 0
-	 "theme": "Músicas"
+	"theme": "Músicas"
     },
     {
         "question": "Quem é o cantor baiano conhecido por sua música 'Berimbau'?",
@@ -1070,7 +1070,7 @@
         "options": ["Pablo", "Novos Baianos", "Banda Eva", "Os Tribalistas"],
         "answer": 1,
         "theme": "Músicas"
-    }
+    },
     {
         "question": "Qual cantor é conhecido como o 'Rei da Música Sertaneja'?",
         "options": ["Zezé Di Camargo", "Chitãozinho & Xororó", "Leandro & Leonardo", "Jorge & Mateus"],
@@ -1106,7 +1106,7 @@
         "options": ["Anitta", "Ludmilla", "Ivete Sangalo", "Marília Mendonça"],
         "answer": 0,
         "theme": "Músicas"
-    }
+    },
     {
         "question": "Quem popularizou a música 'Trem das Onze', um clássico da música paulista?",
         "options": ["Elis Regina", "Adoniran Barbosa", "Demônios da Garoa", "Cássia Eller"],
