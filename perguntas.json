@@ -1163,5 +1163,363 @@
         "question": "No folclore brasileiro, o Saci costuma carregar um:",
         "options": ["Chapéu de palha", "Cachimbo", "Machado", "Bastão"],
         "answer": 1
+    },
+    {
+        "question": "Por que o livro de matemática se suicidou?",
+        "options": ["Porque tinha muitos problemas", "Porque não era interessante", "Porque não tinha mais páginas", "Porque o autor parou de escrever"],
+        "answer": 0
+    },
+    {
+        "question": "O que é um vegetariano que come carne?",
+        "options": ["Um ex-vegetariano", "Um rebelde", "Um disfarce", "Um vegano desorientado"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o cúmulo da paciência?",
+        "options": ["Esperar na fila", "Esperar o pão assar", "Esperar o wifi conectar", "Esperar o alarme tocar"],
+        "answer": 0
+    },
+    {
+        "question": "Por que a vaca foi para o espaço?",
+        "options": ["Para ver o vácuo", "Porque queria ser astronauta", "Para ver a lua de perto", "Porque estava com fome"],
+        "answer": 0
+    },
+    {
+        "question": "O que é um astro em um filme?",
+        "options": ["Uma estrela", "Um diretor", "Um ator", "Um estúdio de cinema"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o animal mais antigo?",
+        "options": ["A zebra", "O leão", "A tartaruga", "A baleia"],
+        "answer": 2
+    },
+    {
+        "question": "O que o tomate foi fazer no banco?",
+        "options": ["Tirar um extrato", "Investir", "Sacar dinheiro", "Pedir empréstimo"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o oposto de volátil?",
+        "options": ["Pesado", "Denso", "Fácil", "Lento"],
+        "answer": 1
+    },
+    {
+        "question": "Por que o livro de história não mentiu?",
+        "options": ["Porque era fiel", "Porque não sabia", "Porque o autor não permitiu", "Porque ele estava no passado"],
+        "answer": 0
+    },
+    {
+        "question": "O que aconteceu quando o relógio foi ao médico?",
+        "options": ["Ficou sem tempo", "Fez hora extra", "Ficou com problema de pulso", "Fez exame de sangue"],
+        "answer": 2
+    },
+    {
+        "question": "Como o vento anda?",
+        "options": ["De um lado para o outro", "A passos largos", "Com rapidez", "Com pressa"],
+        "answer": 0
+    },
+    {
+        "question": "O que a girafa falou para o elefante?",
+        "options": ["Te vejo de cima", "Você está abaixo de mim", "Cuidado com a tromba", "Nada, ela ficou com vergonha"],
+        "answer": 0
+    },
+    {
+        "question": "Por que o pão não foi ao médico?",
+        "options": ["Porque estava com manteiga", "Porque ele não tinha coragem", "Porque ele estava com fome", "Porque ele estava com cara de triste"],
+        "answer": 0
+    },
+    {
+        "question": "O que o matemático disse para a formiga?",
+        "options": ["Você é um número", "Me mostre a raiz", "Você é pequena demais", "Você tem muitas patas"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é o cúmulo da economia?",
+        "options": ["Comprar barato", "Fazer a conta certa", "Não gastar nada", "Comprar no desconto"],
+        "answer": 2
+    },
+    {
+        "question": "Como o cachorro chama a televisão?",
+        "options": ["Com a pata", "Com o focinho", "Com os olhos", "Com a boca"],
+        "answer": 1
+    },
+    {
+        "question": "Por que o computador foi ao médico?",
+        "options": ["Porque estava com vírus", "Porque estava com fome", "Porque não aguentava mais", "Porque estava travado"],
+        "answer": 0
+    },
+    {
+        "question": "O que a árvore disse para o lenhador?",
+        "options": ["Me corte", "Cuidado com a serra", "Não me machuque", "Estou aqui para te dar sombra"],
+        "answer": 2
+    },
+    {
+        "question": "Qual é o animal que nunca se perde?",
+        "options": ["O coelho", "O cão", "O gato", "A abelha"],
+        "answer": 3
+    },
+    {
+        "question": "Por que o astronauta não queria voltar para a Terra?",
+        "options": ["Porque ele estava em órbita", "Porque ele estava se divertindo", "Porque ele estava sem dinheiro", "Porque ele estava com medo de cair"],
+        "answer": 0
+    },
+    {
+        "question": "O que o peixe falou para o outro peixe?",
+        "options": ["Nada", "Estou em um aquário", "A água está fria", "Nada de novo"],
+        "answer": 0
+    },
+    {
+        "question": "Por que a galinha atravessou a rua?",
+        "options": ["Para chegar ao outro lado", "Porque estava com fome", "Porque estava com pressa", "Porque queria ver o mundo"],
+        "answer": 0
+    },
+    {
+        "question": "O que o abacaxi falou para o coco?",
+        "options": ["Eu sou mais doce", "Eu sou mais exótico", "Somos da mesma família", "Você tem mais espinhos"],
+        "answer": 2
+    },
+    {
+        "question": "Como o hacker chama sua avó?",
+        "options": ["Vovó.exe", "Vovó.zip", "Vovó 2.0", "Vovó.system"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é a fruta mais madura?",
+        "options": ["A maçã", "A banana", "A laranja", "A pera"],
+        "answer": 1
+    },
+    {
+        "question": "Por que a vaca foi ao parque de diversões?",
+        "options": ["Para andar na montanha-russa", "Porque estava de férias", "Porque queria ver a roda gigante", "Porque estava se divertindo"],
+        "answer": 0
+    },
+    {
+        "question": "O que é um café sem açúcar?",
+        "options": ["Amargo", "Doce", "Sem graça", "Fraco"],
+        "answer": 0
+    },
+    {
+        "question": "Por que o sapo não gosta de sol?",
+        "options": ["Porque ele fica muito quente", "Porque ele prefere a sombra", "Porque ele adora a chuva", "Porque ele tem medo de queimaduras"],
+        "answer": 1
+    },
+    {
+        "question": "O que o coelho falou para o leão?",
+        "options": ["Você é grande", "Você é forte", "Você é meu amigo", "Não me coma!"],
+        "answer": 3
+    },
+    {
+        "question": "Por que a televisão foi ao terapeuta?",
+        "options": ["Porque ela estava com baixa audiência", "Porque estava com problemas", "Porque estava com fome", "Porque estava desligada"],
+        "answer": 0
+    },
+    {
+        "question": "O que o sol disse para a lua?",
+        "options": ["Você é minha sombra", "Nos vemos à noite", "Você brilha mais que eu", "Estou de olho em você"],
+        "answer": 1
+    },
+    {
+        "question": "Qual é a coisa mais comum em um escritório?",
+        "options": ["Computador", "Cadeira", "Café", "Fofoca"],
+        "answer": 3
+    },
+    {
+        "question": "Por que a pizza foi ao médico?",
+        "options": ["Porque estava com dor", "Porque estava com fome", "Porque estava com molho", "Porque estava com queijo demais"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o peixe mais bagunceiro?",
+        "options": ["O peixe-palhaço", "O tubarão", "O peixe-boi", "O atum"],
+        "answer": 0
+    },
+    {
+        "question": "Por que o pássaro levou a caneta para a escola?",
+        "options": ["Porque queria escrever", "Porque ia fazer um desenho", "Porque queria anotar", "Porque ele gosta de escrever"],
+        "answer": 2
+    },
+    {
+        "question": "Por que o gafanhoto foi ao show?",
+        "options": ["Porque queria dançar", "Porque gostava de música", "Porque estava cansado de pular", "Porque queria mostrar seu talento"],
+        "answer": 0
+    },
+    {
+        "question": "O que o leão falou para o camelo?",
+        "options": ["Eu sou o rei da selva", "Eu sou mais forte que você", "Você é muito feio", "Nada, ele estava comendo"],
+        "answer": 0
+    },
+    {
+        "question": "Por que o abacaxi foi para a balada?",
+        "options": ["Porque estava animado", "Porque queria dançar", "Porque queria ser o centro das atenções", "Porque adora música"],
+        "answer": 1
+    },
+    {
+        "question": "O que o tomate disse para o outro tomate?",
+        "options": ["Me ajuda a sair do molho", "Corre que a pizza vai sair", "Está muito quente aqui", "Nada, porque tomate não fala"],
+        "answer": 3
+    },
+    {
+        "question": "Como o computador disse que estava?",
+        "options": ["Com vírus", "Com defeito", "Com fome", "Com pressa"],
+        "answer": 0
+    },
+    {
+        "question": "O que a vaca disse para o boi?",
+        "options": ["Me acompanha no rebanho", "Me deixa em paz", "Eu sou a rainha da fazenda", "Você está muito gordo"],
+        "answer": 0
+    },
+    {
+        "question": "O que o elefante falou para a formiga?",
+        "options": ["Nada, ele não fala", "Você está no meu caminho", "Me ajude a pegar a comida", "Eu sou mais forte que você"],
+        "answer": 1
+    },
+    {
+        "question": "Por que o rio estava triste?",
+        "options": ["Porque estava seco", "Porque tinha perdido sua direção", "Porque o mar não o queria", "Porque tinha muitas pedras"],
+        "answer": 1
+    },
+    {
+        "question": "Como o celular se despediu da bateria?",
+        "options": ["Com um aviso", "Com um grito", "Com uma descarga", "Com um abraço"],
+        "answer": 0
+    },
+    {
+        "question": "Qual é o personagem de comédia que vive em uma casa debaixo de uma escada e tem um cachorro chamado Scooby-Doo?",
+        "options": ["Homer Simpson", "Fred Flintstone", "Shaggy Rogers", "Tommy Pickles"],
+        "answer": 2,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual personagem de comédia é conhecido por seu riso peculiar e a frase 'Whaaaat?'",
+        "options": ["Homer Simpson", "Mr. Bean", "Pikachu", "Doraemon"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em qual filme de comédia Jim Carrey se torna um personagem que não consegue parar de mentir?",
+        "options": ["O Máskara", "O Mentiroso", "Ace Ventura", "Bruce, O Todo Poderoso"],
+        "answer": 1,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual série de comédia é conhecida por seus personagens como 'Sheldon' e 'Leonard'?",
+        "options": ["The Big Bang Theory", "Friends", "How I Met Your Mother", "Two Broke Girls"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Quem foi o criador do programa de comédia 'Saturday Night Live'?",
+        "options": ["Lorne Michaels", "Jimmy Fallon", "Chris Rock", "Ellen DeGeneres"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual filme de comédia de 1994 teve o ator Jim Carrey como protagonista e interpretou o personagem 'Ace Ventura'?",
+        "options": ["O Máskara", "Ace Ventura: Um Detetive Diferente", "O Todo Poderoso", "Debi & Lóide"],
+        "answer": 1,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Quem é o personagem principal da série de comédia 'The Office'?",
+        "options": ["Michael Scott", "Jim Halpert", "Dwight Schrute", "Ryan Howard"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual é o nome do comediante que ficou famoso por seu personagem 'Mr. Bean'?",
+        "options": ["Jim Carrey", "Steve Martin", "Rowan Atkinson", "Chris Farley"],
+        "answer": 2,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em que série o personagem 'Joey Tribbiani' trabalha como ator?",
+        "options": ["The Big Bang Theory", "How I Met Your Mother", "Friends", "Two and a Half Men"],
+        "answer": 2,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual é a principal característica do personagem 'Homer Simpson' da série 'Os Simpsons'?",
+        "options": ["Preguiçoso e apaixonado por donuts", "Inteligente e líder", "Bobo e vaidoso", "Romântico e aventureiro"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual filme de comédia conta a história de dois amigos que querem entrar em uma faculdade de elite?",
+        "options": ["Legalmente Loira", "Os Pinguins de Madagascar", "Os Penetras", "Vingadores"],
+        "answer": 2,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Quem criou o personagem 'Chaves'?",
+        "options": ["Roberto Gómez Bolaños", "Chespirito", "Carlos Villagrán", "Ricky Martin"],
+        "answer": 1,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual comediante tem o famoso bordão 'Caiu na net!'?",
+        "options": ["Danilo Gentili", "Média Média", "Rogério Morgado", "Tom Cavalcante"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Quem é o personagem principal da comédia 'O Máskara'?",
+        "options": ["Stanley Ipkiss", "Bruce Nolan", "Ace Ventura", "Edward Scissorhands"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual série de comédia é ambientada em uma cafeteria de Nova York, com os personagens principais como Rachel e Ross?",
+        "options": ["The Big Bang Theory", "How I Met Your Mother", "Friends", "Two Broke Girls"],
+        "answer": 2,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em que filme de comédia Steve Carell interpreta o personagem 'Gru'?",
+        "options": ["As Loucas Aventuras de um Reino", "Meu Malvado Favorito", "O Mentiroso", "O Âncora: A Lenda de Ron Burgundy"],
+        "answer": 1,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual é o nome do personagem principal da série de comédia 'Parks and Recreation'?",
+        "options": ["Leslie Knope", "Ron Swanson", "Tom Haverford", "Ben Wyatt"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Quem ficou famoso com o bordão 'É verdade esse bilete!'?",
+        "options": ["Silvio Santos", "Faustão", "Hebe Camargo", "Chaves"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual filme de comédia é estrelado por Will Ferrell e conta a história de um homem que trabalha como apresentador de notícias?",
+        "options": ["O Âncora", "Legalmente Loira", "Horrible Bosses", "Debi & Lóide"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em que série de comédia o personagem 'Sheldon Cooper' é um físico teórico?",
+        "options": ["The Office", "How I Met Your Mother", "The Big Bang Theory", "Parks and Recreation"],
+        "answer": 2,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual personagem de comédia é conhecido por ser o melhor amigo de 'Rachel' e 'Monica' em 'Friends'?",
+        "options": ["Chandler Bing", "Joey Tribbiani", "Ross Geller", "Phoebe Buffay"],
+        "answer": 0,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Qual o nome do filme que conta com a participação de vários personagens hilários, como 'Billy Madison' e 'Happy Gilmore'?",
+        "options": ["Os Estagiários", "O Máskara", "Billy Madison - Um Herói Diferente", "Tommy Boy"],
+        "answer": 2,
+        "theme": "Comédia"
+    },
+    {
+        "question": "Em qual filme de comédia Adam Sandler cria um personagem com várias identidades?",
+        "options": ["O Paizão", "Click", "As Branquelas", "Gente Grande"],
+        "answer": 1,
+        "theme": "Comédia"
     }	
 ]
